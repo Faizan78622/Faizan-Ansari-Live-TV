@@ -2,19 +2,19 @@
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "Aman Ullah Live TV",
-    "url": "https://aman-live-tv.vercel.app/",
+    "name": "Faizan Ansari Live TV",
+    "url": "",
     "description": "Watch 90+ live HD TV channels free online — News, Sports, Entertainment, Music, Kids, Religious & Regional channels.",
     "author": {
       "@type": "Person",
-      "name": "Aman Ullah"
+      "name": "Faizan Ansari"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "HN-AMAN",
+      "name": "Faizan-Ansari",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://ik.imagekit.io/amanphoto/file_00000000e80871f8bbc9b8560096a56a.png"
+        "url": "https://ik.imagekit.io/5hpgw5axh/Faizan%20Ansari.png"
       }
     }
   }
