@@ -3,7 +3,7 @@
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "Faizan Ansari Live TV",
-    "url": "",
+    "url": "faizan-ansari-live-tv.vercel.app",
     "description": "Watch 90+ live HD TV channels free online — News, Sports, Entertainment, Music, Kids, Religious & Regional channels.",
     "author": {
       "@type": "Person",
